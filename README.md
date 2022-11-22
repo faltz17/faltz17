@@ -1,7 +1,7 @@
-- 👋 Hi, I’m mayara
-- 👀 I’m interested in  em terminar meus estudos
+- sou mayara do 1b
+
 - 
-- 📫 How to reach me ...
+- 📫 
 
 <!---
 faltz17/faltz17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
